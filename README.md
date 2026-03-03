@@ -54,7 +54,7 @@ Güvenlik şu an bu şekilde sağlanmaktadır.
 
 ## 📡 ACTIVITY STATUS / AKTİFLİK DURUMU
 
-🔴 **OFFLINE**
+ **ONLİNE**
 
 
 -----------------------
